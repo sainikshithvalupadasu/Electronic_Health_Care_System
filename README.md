@@ -37,8 +37,8 @@ python app.py
 The resultant will be displayed in your browser
 
 <br>
-![](https://github.com/sainikshithvalupadasu/Electronic_Health_Care_System/blob/main/images/home.jpeg
-![](https://github.com/Praneethkanchanakuntla/Electronic-Health-Care-System/blob/main/Readme%20images/home.jpeg)
+
+![](https://github.com/sainikshithvalupadasu/Electronic_Health_Care_System/blob/main/images/home.jpeg)
 
 The user have to login or register into system in order to access the portal there will be two roles patient and Doctor and we have sign in accordingly
 
